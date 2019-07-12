@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<img src="assets/portfolio.png" alt="drawing" width="200"/>
+<p style="text-align:center;"><img src="assets/portfolio.png" alt="drawing" width="200"/></p>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
