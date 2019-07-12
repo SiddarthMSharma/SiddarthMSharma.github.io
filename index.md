@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Picture](assets/portfolio.png)
+![Picture](assets/portfolio.png) <!-- .element height="50%" width="50%" -->
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
